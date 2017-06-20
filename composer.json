@@ -1,0 +1,17 @@
+{
+    "name": "jiangzg/composer-tree",
+    "description": "hahha",
+    "license": "MTK",
+    "authors": [
+        {
+            "name": "JianZG",
+            "email": "2992265870@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-4": {"JiangZG\\Tree\\": "src/"}
+    }
+}
