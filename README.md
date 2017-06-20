@@ -1,6 +1,8 @@
 # composer-tree
 
-<?php
+## 使用方法
+
+```PHP
 
 include_once __DIR__.'/../vendor/autoload.php';
 
@@ -63,8 +65,11 @@ $result = $tree->createTree($testAyy);
 
 print_r($result);
 
-# 输出结果
+```
 
+## 输出结果
+
+```PHP
 Array
 (
     [0] => Array
@@ -162,3 +167,4 @@ Array
         )
 
 )
+```
