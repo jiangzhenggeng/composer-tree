@@ -2,6 +2,9 @@
 
 ## 使用方法
 
+#安装
+composer require jiangzg/composer-tree:1.0.0
+
 ```PHP
 
 include_once __DIR__.'/../vendor/autoload.php';
